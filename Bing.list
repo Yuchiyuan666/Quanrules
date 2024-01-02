@@ -23,20 +23,20 @@ HOST-SUFFIX,msunlimitedcloudsummit.com,Bing 
 HOST-SUFFIX,renovacionoffice.com,Bing 
 HOST-SUFFIX,sprinklesapp.com,Bing 
 HOST-SUFFIX, bingapis.com, Bing  
-HOST-SUFFIX, cdn.jsdelivr.net, Bing  🔄  ❓
+HOST-SUFFIX, cdn.jsdelivr.net, Bing
 HOST-SUFFIX, microsoft-falcon.io, Bing 
 HOST-SUFFIX, msn.com, Bing
 HOST-SUFFIX, microsoftapp.net, Bing 
 HOST-SUFFIX, bing.com, Bing
 
-# Microsoft Bing 🔄  ❓
+# Microsoft Bing
 HOST-SUFFIX,bing.com,必应
 HOST-SUFFIX,bing.com.cn,必应
 HOST-SUFFIX,bing.net,必应
 HOST-SUFFIX,bingads.com,必应
-HOST-SUFFIX,bingagencyawards.com,必应 🔄  ❓
+HOST-SUFFIX,bingagencyawards.com,必应
 HOST-SUFFIX,bingapistatistics.com,必应
-HOST-SUFFIX,bingsandbox.com,必应 🔄  ❓
+HOST-SUFFIX,bingsandbox.com,必应 
 HOST-SUFFIX,bingvisualsearch.com,必应
 HOST-SUFFIX,bingworld.com,必应
 HOST-SUFFIX,bluehatnights.com,必应
@@ -60,8 +60,8 @@ HOST-SUFFIX, msn.com, 必应
 HOST-SUFFIX, microsoftapp.net, 必应
 HOST-SUFFIX, bing.com, 必应 
 HOST-SUFFIX, bingapis.com, 必应   
-HOST-SUFFIX, cdn.jsdelivr.net, 必应  🔄  ❓ 
+HOST-SUFFIX, cdn.jsdelivr.net, 必应  
 HOST-SUFFIX, microsoft-falcon.io, 必应  
 HOST-SUFFIX, msn.com, 必应
 HOST-SUFFIX, microsoftapp.net, 必应  
-HOST-SUFFIX, bing.com, 必应 🔄  ❓
+HOST-SUFFIX, bing.com, 必应 
